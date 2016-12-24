@@ -5,6 +5,9 @@ from .utils.dataIO import fileIO
 from .utils import checks
 import os
 
+defaults = [
+    "Love"]
+
 class Boop:
     """Boop command."""
 
