@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "XYZayne",
+    "INSTALL_MSG" : "Thanks for installing!",
+    "NAME" : "boop",
+    "SHORT" : "Boop a user! Must mention user",
+    "DESCRIPTION" : "Boop a user! Must mention the user or it won't work!"
+}
