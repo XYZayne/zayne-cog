@@ -9,10 +9,10 @@ class Mycog:
 
     @commands.command()
     async def boop(self, user : discord.Member):
-        """This does stuff!"""
+        """*boops " + user.mention + "*"""
 
         #Your code will go here
-        await self.bot.say("*boops" + user.mention + "*")
+        await self.bot.say("*boops you instead*")
 
 
 def setup(bot):
